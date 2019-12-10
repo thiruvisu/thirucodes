@@ -1,3 +1,5 @@
+""" this is the code to analyze bikesharedata for Udacity project as well as git project"""
+
 import time
 import pandas as pd
 import numpy as np
