@@ -23,7 +23,7 @@ def get_filters():
     #print (city)
     month = input ('enter month:(all, january,february,march,april,may, june): ')
     #print (month)
-    day = input ('enter day of week:(all, monday, tuesday, wednesday, thursday, friday, saturday, sunday)')
+    day = input ('enter day of week:(monday, tuesday, wednesday, thursday, friday, saturday, sunday)')
     print('-'*40)
     #print (city, month, day)
     #return city, month, day
